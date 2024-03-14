@@ -1,2 +1,2 @@
 # GO
-GoLang Examples
+This repository contain all GoLang Examples
